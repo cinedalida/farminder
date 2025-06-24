@@ -1,2 +1,2 @@
 # farminder
-stardew valley themed todo list with React, Tailwindcss, Firebase
+game themed to-do list with React, TailwindCSS, Firebase
